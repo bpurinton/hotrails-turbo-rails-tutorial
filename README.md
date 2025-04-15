@@ -1,3 +1,3 @@
-# rails-8-template
+# hotrails turbo rails tutorial
 
-For your AppDev-2 Projects!
+https://www.hotrails.dev/turbo-rails/turbo-rails-tutorial-introduction
